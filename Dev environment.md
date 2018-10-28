@@ -26,7 +26,7 @@
 ### Dev environment
 #### Nginx
 
-    sudo sh -c 'echo "deb http://nginx.org/packages/mainline/debian/ stretch nginx"' > /etc/apt/sources.list.d/nginx.list
+    sudo sh -c 'echo "deb http://nginx.org/packages/mainline/debian/ stretch nginx" > /etc/apt/sources.list.d/nginx.list'
 
     wget http://nginx.org/keys/nginx_signing.key
 
